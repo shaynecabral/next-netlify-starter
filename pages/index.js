@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           STC MANAGEMENT FOR  YOUR FLEET!!
         </p>
-        <Image>Logo_Dinall_Aviation.jpg</Image>
+    
       </main>
 
       <Footer />
