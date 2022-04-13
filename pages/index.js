@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+      <Header title="COMING SOON!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          STC MANAGEMENT FOR  YOUR FLEET!!
         </p>
+        <Image>Logo_Dinall_Aviation.jpg</Image>
       </main>
 
       <Footer />
